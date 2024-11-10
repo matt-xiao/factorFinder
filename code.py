@@ -1,3 +1,5 @@
+# yes, it's not very good code
+
 print(" ")
 minNumber = int(input("Minimum amount of consecutive numbers: "))
 maxFindNumber = int(input("Maximum number to search: "))
