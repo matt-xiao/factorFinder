@@ -3,6 +3,7 @@
 # last item in list is the amount of unique factors each number has (excluding the number itself and 1)
   # see a lot of 6s?
 # second last item in list is amount of numbers in 'group' of consecutive numbers with identical amount of factors
+# searched up to 300,000
 
 [0, 1, 2, 3, 4, 0]
 [242, 243, 244, 245, 4, 4]
